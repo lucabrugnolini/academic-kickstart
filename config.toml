@@ -44,18 +44,18 @@ enableGitInfo = false
 # AUTHOR SETUP
   # Your details.
   name = "Luca Brugnolini"
-  role = "Senior Research Economist"
+  role = "Econometrician"
 
   # Organizations/Affiliations.
   # Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{name="Central Bank of Malta", url ="https://www.centralbankmalta.org/"},
-  {name="Research Department", url ="https://www.centralbankmalta.org/"}  ]
+  organizations = [{name="Rokos Capital Management", url =""},
+  {name="Research Department", url =""}  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "picture1.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
     # Details for the Contact Widget
   email = "luca.brugnolini@gmail.com"
-  address = "Central Bank of Malta, Laparelli Building, St. James’s Counterguard, Valletta"
+  address = ""
   office_hours = ""
   #phone = "+356 2550 7930"
   skype = "luca_brugnolini"

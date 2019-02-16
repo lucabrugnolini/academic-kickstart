@@ -50,8 +50,7 @@ weight = 1
 
 # Hello!
 
-<p style='text-align: justify;'>I am a senior research economist at the Central Bank of Malta's Research Department. I was previously working as an economist at the European Central Bank, and as a macroeconomic researcher at the Rokos' hedge fund in London.</p>
+<p style='text-align: justify;'>I am an econometrician at Rokos Capital Management. I was previously working as a senior economist at the Research Department of the Central Bank of Malta, and as an economist at the European Central Bank's Monetary Policy Strategy department. My research interests include monetary policy, time series--econometrics, and forecasting.</p>
 
-<p style='text-align: justify;'>My research interests include monetary policy, time-series econometrics, and forecasting. I am also involved in understanding the effects of monetary policy surprises on financial assets. In the last years, I have extensively worked on this topic using high-frequency data.  </p>
 
 
