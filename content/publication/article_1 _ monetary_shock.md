@@ -48,7 +48,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Appendix", url = "publication/measuring_ea_monetary_policy_appendix.pdf"}, 
-{name = "Data", url = "publication/EA_MPD_update_may2019.xlsx"}]
+{name = "Data", url = "https://www.ecb.europa.eu/pub/pdf/annex/Dataset_EA-MPD.xlsx?7224495b9ba83e07f9b53f41f156ffff"}]
 
 # Does the content use math formatting?
 math = true
